@@ -1,0 +1,8 @@
+1. Create a Database using code provided in datanase/db_creation.sql
+(Can run for Your Database but need to provide different queries in few_shots.py)
+
+2. pip install -r requirements.txt
+
+3. create a google api key from https://aistudio.google.com/app/apikey and put it in .env (craete new file .env if not created already)
+
+4. streamlit run main.py
